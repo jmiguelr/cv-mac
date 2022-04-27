@@ -20,20 +20,56 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jmiguelrodriguez/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/jmiguelr"
+      },
+      {
+        "type": "other",
+        "URL": "https://jmiguel.eu"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/jmiguel"
       },
       {
-        "type": "other",
-        "URL": "https://jmiguel.eu"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jmiguelrodriguez/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Groovy",
+          "type": "technology"
+        }
       }
     ]
   },
