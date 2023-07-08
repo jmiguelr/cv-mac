@@ -11,48 +11,36 @@
       "title": "Java developer, Linux nerd",
       "description": "Programador con mas de 30 años de experiencia en el sector. Dedicado sobre todo a programas de gestión para empresas aunque he hecho alguna otra cosita, alguna de ellas por mi cuenta. \n\nPracticamente toda mi carrera profesional ha sido dentro de Virtual Software, empresa que co-fundé en 1992 y en la que he hecho prácticamente cualquier tarea relacionada con la tecnología de la empresa: desde la selección de lenguajes o frameworks de desarrollo en cada momento (Clipper, Visual Basic, Java, Grails) al mantenimiento de los sistemas propios (redes Novell, luego red local \"normal\", maquinas Windows y luego Linux, VMWare y AWS) y de terceros (servicios de ISP durante años: servidores web, email, dns, etc.. ) en varias plataformas, tanto propias como en servidores de clientes (sistemas windows, Solaris, multiples \"sabores\" de linux) con multiples versiones de aplicaciones empresariales (Weblogic, Jboss, OracleDB, postgresql, mysql, etc)\n\nTambien he llevado la gestión y coordinación de proyectos (no a nivel de Jefe de Proyecto, mas bien coordinación técnica, revision de código, implantación de buenas practicas, etc) en la empresa. Contratación y evaluación de personal. \n\nAunque he hecho bastantes cosas \"de sistemas\" (ultimamente, bastante con AWS y sistemas de alta disponibilidad con balancadores de carga y grupos de autoescalado) lo que me gusta es sobre todo programar, en especial en Groovy o Java.  \n\n\nY sobre todo, lo que mas me gusta, es no estar quieto: aprender algo cada dia. En los últimos tiempos, metido en el mundillo blockchain (con ganas de aprender Solidity) e incluso dando alguna charla sobre el tema (https://blog.jmiguel.eu/2017/02/blockchain-y-bitcoin-en-t3chfest_17.html) , jugando con los \"botoncitos\" de Amazon IoT o haciendo algún side-project para poder probar cosas que se salen de \"lo que pagan los clientes\". \n\nComo tarea colatareal a la administración de sistemas, he tenido que estar actualizado en temas de seguridad de sistemas (firewalls perimetrales, pfSense, kali) tanto en el lado de defensor como de atacante (fué divertido una temporada :-)). Tambien en lo referido a seguridad de aplicaciones web para que las aplicaciones desarrolladas en la empresa no sean \"muy\" vulnerables (tarea no siempre sencilla).  Me considero relativamente competente y con conocimiento en estos ambientes. \n\nUsuario (y administrador técnico) de varios productos Atlassian (Jira & Confluence) .  Apasionado (y creyente) en el software libre. Usuario de Linux desde 1998. Tuve una BBS en los 90 (fuí coordinador e importador de los grupos de noticias desde Alemania, llamada telefónica diaria) que me enseñó no solo a programar y a conocer gente, sino que el conocimiento está ahí fuera. Colaborador (sponsor) del grupo de usuarios de Groovy de Madrid. \n\nFuera del desarrollo de software: mis aficiones son la música (guitarrista desde los 15 años, hace tiempo rockero duro, actualmente blues y jazz -la edad no perdona- ), la aviación (piloto privado de avioneta sin apenas tiempo y recursos para disfrutarlo) y la fotografía. \n\n",
       "avatar": {
-        "alt": "mascarilla.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/5b7125df-419a-4c2e-a276-d522f2cc3d52_mascarilla.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/5b7125df-419a-4c2e-a276-d522f2cc3d52_mascarilla.jpg",
+        "alt": "mascarilla.jpg"
       },
       "location": {
-        "notes": "Madrid, Spain"
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/jmiguelr"
-      },
-      {
         "type": "other",
-        "URL": "https://jmiguel.eu"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/jmiguel"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jmiguelrodriguez/"
+        "URL": "https://jmiguel.eu",
+        "description": "Personal site"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "AWS",
@@ -70,6 +58,32 @@
           "name": "Groovy",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -77,10 +91,39 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jmiguelrodriguez/"
+          "URL": "https://www.linkedin.com/in/jmiguelrodriguez/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/jmiguelr",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/jmiguel",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "jmiguel.rodriguez@protonmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "610216276",
+          "countryCode": "+34"
         }
       ]
-    }
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Software Architect",
+        "Technical Account Management"
+      ]
+    },
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "\"Sinceramente: no lo tengo claro. \n\nUn trabajo de programación que no sea repetitivo o aburrido (si, ya se que siempre hay cosas que lo son, es asumible y normal).  Donde se aprenda algo habitualmente. Donde no llegue con todo aprendido sino que haya que investigar. Donde alguien me enseñe algo (estoy cansado de ser yo el que enseña). Si además involucra retos de sistemas (despliegues con autoescalados \"\"infinitos\"\", integración de sistemas ) es un plus. \n\nMe gustan los retos, asi que un sitio donde \"\"esté casi todo por hacer\"\" tambien me  gustaría. \n\nUna empresa (o departamento) no demasiado grande, donde el trabajo de cada uno sea util, no donde el trabajo sea \"\"cual es la hora del cafe - volvermos a calentar la silla\"\", pero tampoco tan pequeña como para que le horizonte de vida de la empresa sea corto. Quiero algo relativamente estable. \n\nPensaba decir que no me gustaría algo excesivamente tradicional (p.e: banca, seguros) pero lo cierto es que ultimamente hasta en esos sectores están saliendo cosas interesantes asi... no tengo sector en el que me niegue (a priori)\n\nSi me negaría (salvo que falte comida, claro) a cualquier trabajo \"\"maligno\"\" (p.e: \"\"ser programador de la estrella de la muerte\"\" :-D) llevado a la realidad: análisis de datos personales sin permiso, \"\"atentados\"\" contra la naturaleza o las personas, discriminaciones... etc etc.. "
   }
 }
