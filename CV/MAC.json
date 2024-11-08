@@ -63,19 +63,31 @@
       },
       {
         "skill": {
-          "name": "Grails",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Groovy",
+          "name": "Git",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
           "type": "technology"
         }
       }
@@ -129,6 +141,28 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "\"Sinceramente: no lo tengo claro. \n\nUn trabajo de programación que no sea repetitivo o aburrido (si, ya se que siempre hay cosas que lo son, es asumible y normal).  Donde se aprenda algo habitualmente. Donde no llegue con todo aprendido sino que haya que investigar. Donde alguien me enseñe algo (estoy cansado de ser yo el que enseña). Si además involucra retos de sistemas (despliegues con autoescalados \"\"infinitos\"\", integración de sistemas ) es un plus. \n\nMe gustan los retos, asi que un sitio donde \"\"esté casi todo por hacer\"\" tambien me  gustaría. \n\nUna empresa (o departamento) no demasiado grande, donde el trabajo de cada uno sea util, no donde el trabajo sea \"\"cual es la hora del cafe - volvermos a calentar la silla\"\", pero tampoco tan pequeña como para que le horizonte de vida de la empresa sea corto. Quiero algo relativamente estable. \n\nPensaba decir que no me gustaría algo excesivamente tradicional (p.e: banca, seguros) pero lo cierto es que ultimamente hasta en esos sectores están saliendo cosas interesantes asi... no tengo sector en el que me niegue (a priori)\n\nSi me negaría (salvo que falte comida, claro) a cualquier trabajo \"\"maligno\"\" (p.e: \"\"ser programador de la estrella de la muerte\"\" :-D) llevado a la realidad: análisis de datos personales sin permiso, \"\"atentados\"\" contra la naturaleza o las personas, discriminaciones... etc etc.. "
   }
 }
